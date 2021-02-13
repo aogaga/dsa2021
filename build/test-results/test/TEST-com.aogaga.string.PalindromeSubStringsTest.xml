@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aogaga.string.PalindromeSubStringsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-09T08:08:22" hostname="OgheneogagasMBP.attlocal.net" time="0.021">
+  <properties/>
+  <testcase name="findAllPalindromeSubstringsV2()" classname="com.aogaga.string.PalindromeSubStringsTest" time="0.021"/>
+  <system-out><![CDATA[a
+aa
+aabbbaa
+a
+abbba
+b
+bb
+bbb
+b
+bb
+b
+a
+aa
+a
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
